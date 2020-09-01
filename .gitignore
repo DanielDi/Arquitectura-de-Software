@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .vscode/settings.json
+gestion_arriendos/gestion_arriendos/secret.py
